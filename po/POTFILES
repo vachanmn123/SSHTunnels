@@ -1,0 +1,6 @@
+data/com.vachanmn.SSHTunnels.desktop.in
+data/com.vachanmn.SSHTunnels.appdata.xml.in
+data/com.vachanmn.SSHTunnels.gschema.xml
+src/main.py
+src/window.py
+src/window.ui
